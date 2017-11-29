@@ -54,6 +54,7 @@ body > .container {
 }
 .container .footer_text {
   margin: 20px 0;
+  font-family: 'EB Garamond';
 }
 
 .footer > .container {
@@ -71,4 +72,16 @@ code {
 
 .page-header {
   border-bottom: 1px solid #252525;
+}
+
+.navbar-brand {
+  font-family: 'EB Garamond';
+}
+
+.course_images {
+  height: 200px;
+}
+
+.course_small_image {
+  height: 300px;
 }

@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 <div class="container">
     <div class="page-header">
-        <h1>Contact us</h1>
+        <h1 class="forward_font">Contact us</h1>
     </div>
     <p class="lead">
         In this area of cut-throat competition everything is business and all are trying to make a fast buck by giving short shrift to equality. The field of education is in no way, an exception to this trend.

@@ -1,6 +1,6 @@
     <footer class="footer">
         <div class="container">
-            <p class="footer_text">&copy; <?php echo date('Y'); ?> Forward Academy</p>
+            <p class="footer_text">&copy; <?php echo date('Y'); ?> FORWARD ACADEMY</p>
         </div>
     </footer>
 

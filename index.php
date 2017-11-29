@@ -12,6 +12,7 @@
         <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=EB+Garamond:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
         <!-- Custom styles for this template -->
         <link href="css/creative.min.css" rel="stylesheet">
     </head>
@@ -21,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-10 mx-auto">
                         <h1 class="text-uppercase">
-                            <strong>Forward Academy</strong>
+                            <strong style="font-family: 'EB Garamond';">Forward Academy</strong>
                         </h1>
                         <p class="text-faded mb-5"><strong>The Greate Solution</strong></p>
                     </div>

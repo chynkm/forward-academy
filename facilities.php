@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 <div class="container">
     <div class="page-header">
-        <h1>Facilities</h1>
+        <h1 class="forward_font">Facilities</h1>
     </div>
     <p class="lead">
         In this area of cut-throat competition everything is business and all are trying to make a fast buck by giving short shrift to equality. The field of education is in no way, an exception to this trend.
@@ -19,41 +19,53 @@
         The role of Forward Academy is to formulate the corporate policies which are implemented through the subsidiaries by using the critical inputs made available by the Forward Academy.
     </p>
     <div class="row">
-        <div class="col-md-3">
-            <a href="img/1.jpg" data-lightbox="image-1" data-title="Image caption">
-                <img src="img/1.jpg" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5849.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5849.png" alt="Reception" class="img-thumbnail">
             </a>
         </div>
-        <div class="col-md-3">
-            <a href="img/2.jpg" data-lightbox="image-1" data-title="Image caption">
-                <img src="img/2.jpg" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5778.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5778.png" alt="Launching ceremony 1" class="img-thumbnail">
             </a>
         </div>
-        <div class="col-md-3">
-            <a href="img/3.jpg" data-lightbox="image-1" data-title="Image caption">
-                <img src="img/3.jpg" alt="..." class="img-thumbnail">
-            </a>
-        </div>
-        <div class="col-md-3">
-            <a href="img/4.jpg" data-lightbox="image-1" data-title="Image caption">
-                <img src="img/4.jpg" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5779.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5779.png" alt="Launching ceremony 2" class="img-thumbnail">
             </a>
         </div>
     </div>
     <div class="row top20">
-        <div class="col-md-3">
-            <a href="https://unsplash.it/1200/768.jpg?image=251" data-lightbox="image-1" data-title="My caption">
-                <img src="https://unsplash.it/600.jpg?image=251" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5781.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5781.png" alt="Ribbon cutting" class="img-thumbnail">
             </a>
         </div>
-        <div class="col-md-3">
-            <a href="https://unsplash.it/1200/768.jpg?image=252" data-lightbox="image-1" data-title="My caption">
-                <img src="https://unsplash.it/600.jpg?image=252" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5783.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5783.png" alt="Launching ceremony 3" class="img-thumbnail">
             </a>
         </div>
-        <div class="col-md-3">
-            <a href="https://unsplash.it/1200/768.jpg?image=253" data-lightbox="image-1" data-title="My caption">
-                <img src="https://unsplash.it/600.jpg?image=253" alt="..." class="img-thumbnail">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5791.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5791.png" alt="Launching ceremony 4" class="img-thumbnail">
+            </a>
+        </div>
+    </div>
+    <div class="row top20">
+        <div class="col-md-4">
+            <a href="gallery/IMG_5820.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5820.png" alt="Launching ceremony 5" class="img-thumbnail">
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="gallery/IMG_5823.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5823.png" alt="Launching ceremony 6" class="img-thumbnail">
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="gallery/IMG_5833.png" data-lightbox="image-1">
+                <img src="gallery/IMG_5833.png" alt="Launching ceremony 7" class="img-thumbnail">
             </a>
         </div>
     </div>
