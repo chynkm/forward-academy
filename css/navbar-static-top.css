@@ -74,14 +74,10 @@ code {
   border-bottom: 1px solid #252525;
 }
 
-.navbar-brand {
+.navbar-brand, .forward_font {
   font-family: 'EB Garamond';
 }
 
 .course_images {
   height: 200px;
-}
-
-.course_small_image {
-  height: 300px;
 }
