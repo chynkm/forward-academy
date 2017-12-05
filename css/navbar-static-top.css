@@ -54,7 +54,7 @@ body > .container {
 }
 .container .footer_text {
   margin: 20px 0;
-  font-family: 'EB Garamond';
+  font-family: 'Cormorant Garamond';
 }
 
 .footer > .container {
@@ -75,9 +75,13 @@ code {
 }
 
 .navbar-brand, .forward_font {
-  font-family: 'EB Garamond';
+  font-family: 'Cormorant Garamond';
 }
 
 .course_images {
   height: 200px;
+}
+
+.text_justify {
+  text-align:justify
 }
