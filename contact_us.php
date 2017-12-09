@@ -11,7 +11,8 @@
         </div>
         <div class="col-md-9">
             <p class="lead">
-                <a href="tel:04862223331">04862 223 331</a>
+                <a href="tel:+918157837777">8157837777</a>,
+                <a href="tel:04862223331">0486-2223331</a>
             </p>
         </div>
         <div class="col-md-3">
